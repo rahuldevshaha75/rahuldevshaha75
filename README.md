@@ -1,5 +1,7 @@
 ## Hi there 👋
-{An engineer who found a passion for programming}
+[comment]: # (An engineer who found a passion for programmingt)
+
+
 <h1 align="center">Hi 👋, I'm RAHUL DEV SHAHA</h1>
 <h3 align="center">A Passionate IT Learnner and Programmer from BANGLADESH!</h3>
 
