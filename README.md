@@ -11,6 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/rahuldevshaha" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldevshaha?logo=twitter&style=for-the-badge" alt="rahuldevshaha" /></a> </p>
 
+##About me:
+
 - 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **Next JS**
@@ -20,6 +22,8 @@
 - 📫 How to reach me **rahuldevshaha26@gmail.com**
 
 - ⚡ Fun fact **CSE Student**
+
+- **Dhaka, Bangladesh**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
