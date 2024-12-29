@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, MongoDB**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **React**
 
