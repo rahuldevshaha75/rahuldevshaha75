@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **rahuldevshaha26@gmail.com**
 
