@@ -1,6 +1,7 @@
 ## Hi there 👋
+{An engineer who found a passion for programming}
 <h1 align="center">Hi 👋, I'm RAHUL DEV SHAHA</h1>
-<h3 align="center">A passionate IT Learnners and Developer from BANGLADESH!</h3>
+<h3 align="center">A passionate IT Learnners and programmer from BANGLADESH!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldevshaha75&label=Profile%20views&color=0e75b6&style=flat" alt="rahuldevshaha75" /> </p>
 
