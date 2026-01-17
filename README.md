@@ -13,7 +13,7 @@
 
 ## About me:
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **Binaries**
 
 - 🌱 I’m currently learning **CS Technologies**
 
