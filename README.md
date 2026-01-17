@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **CS Technologies**
 
 - 💬 Ask me about **Programming**
 
